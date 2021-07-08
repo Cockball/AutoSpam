@@ -11,7 +11,6 @@ words = [
 ]
 
 def sleep():
-time.sleep(8)
 
 word = random.choice(words)
 
